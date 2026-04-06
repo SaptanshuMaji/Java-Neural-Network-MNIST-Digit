@@ -1,13 +1,13 @@
 # Java-Neural-Network-MNIST-Digit
 * Fully implemented digit recognition in Java with no external libraries, trained and tested on MNIST dataset. Uses Swing GUI for real time handwritten digit recognition. 
-* 
+  
 # Features:
 * Built only using JDK (zero dependencies).
 * Manually implemented backpropagation, matrix manipulation. Gemini 3.1 Pro was used to help understand swing and was also implemented manually.
 * Uses adaptive movement estimation (ADAM) optimization. 
 * User can draw in real time, and the model will guess the number, and also give the top 3 choices as outputs (percentages of probability).
 * Automatically centers digit's center of mass and scales to 20x20 grid in 28x28 input
-* 
+  
 # Structure and Architecture:
 * This is a multi-layer perceptron.
 * Input: 784 neurons (grayscale 28x28 pixels)
