@@ -23,8 +23,8 @@
 # How to run:
 * Clone the repository: git clone [https://github.com/SaptanshuMaji/Java-Neural-Network-MNIST-Digit.git](https://github.com/SaptanshuMaji/Java-Neural-Network-MNIST-Digit.git)
 * Compile and run (yes that's it, shocking): Open the project in IntelliJ Idea or compile on your terminal:
-   javac src/*.java -d bin
-   java -cp bin Main
+* javac src/*.java -d bin
+* java -cp bin Main
 
 # Screenshots: ![MNIST demo](screenshots/demo.png)
 
