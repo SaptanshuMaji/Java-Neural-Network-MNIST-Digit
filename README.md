@@ -26,5 +26,5 @@
 * javac src/*.java -d bin
 * java -cp bin Main
 
-# Screenshots: ![MNIST demo](screenshots/demo.png)
+# Screenshots: check screenshots folder in home page for this repository
 
