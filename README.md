@@ -1,5 +1,6 @@
 # Java-Neural-Network-MNIST-Digit
-* Fully implemented digit recognition in Java with no external libraries, trained and tested on MNIST dataset. Uses Swing GUI for real time handwritten digit recognition. 
+* Fully implemented digit recognition in Java with no external libraries, trained and tested on MNIST dataset. Uses Swing GUI for real time handwritten digit recognition.
+* Gemini 3.1 Pro was used in debugging, suggestions for improvement (such as adding 1e-10 to softmax function to prevent potential arithmetic exceptions). The MNIST dataset loader class was heavily inspired from https://github.com/turkdogan/mnist-data-reader. Gemini 3.1 Pro was also used in learning how to use and implement Swing for the UI.
   
 # Features:
 * Built only using JDK (zero dependencies).
